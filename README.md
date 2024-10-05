@@ -131,11 +131,12 @@ https://www.prothomalo.com/
 
 ### Table Syntax
 
-| Name | | Email |
-| ---- | | ----- |
-| Grontho Roy | | Text is here |
-| Grontho Roy | |gronthoroy2023@gmail.com |
-| Grontho Roy | |Text is here |
+| Name        | Email                   |
+| ----------- | ----------------------- |
+| Grontho Roy | Text is here            |
+| Grontho Roy | gronthoroy2023@gmail.com|
+| Grontho Roy | Text is here            |
+
 
 
 
